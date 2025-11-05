@@ -50,7 +50,7 @@ Interrupts from RTC and keypad ensure precise timing and fast user response.
 
 🖥️ Circuit Diagram
 
-
+circuit_diagram.png.png
 
 Explanation:
 
